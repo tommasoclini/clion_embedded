@@ -1,0 +1,2 @@
+export PATH="/opt/st/stm32cubeclt_1.15.1:/opt/st/stm32cubeclt_1.15.1/STM32CubeProgrammer/bin:/opt/st/stm32cubeclt_1.15.1/STLink-gdb-server/bin:/opt/st/stm32cubeclt_1.15.1/Ninja/bin:/opt/st/stm32cubeclt_1.15.1/GNU-tools-for-STM32/bin:$PATH"
+#:/opt/st/stm32cubeclt_1.15.1/CMake/bin
